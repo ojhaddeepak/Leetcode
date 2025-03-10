@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ojhaddeepak/Leetcode/tree/master/0268-missing-number) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ojhaddeepak/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ojhaddeepak/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ojhaddeepak/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## String
 |  |
 | ------- |
@@ -69,11 +70,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/ojhaddeepak/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ojhaddeepak/Leetcode/tree/master/0242-valid-anagram) |
 | [1170-shortest-common-supersequence](https://github.com/ojhaddeepak/Leetcode/tree/master/1170-shortest-common-supersequence) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ojhaddeepak/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ojhaddeepak/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [3483-alternating-groups-ii](https://github.com/ojhaddeepak/Leetcode/tree/master/3483-alternating-groups-ii) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ojhaddeepak/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Sorting
 |  |
 | ------- |
