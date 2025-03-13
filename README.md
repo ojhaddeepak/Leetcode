@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/ojhaddeepak/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ojhaddeepak/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3483-alternating-groups-ii](https://github.com/ojhaddeepak/Leetcode/tree/master/3483-alternating-groups-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/ojhaddeepak/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Math
 |  |
 | ------- |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/ojhaddeepak/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0792-binary-search](https://github.com/ojhaddeepak/Leetcode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ojhaddeepak/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [3643-zero-array-transformation-ii](https://github.com/ojhaddeepak/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/ojhaddeepak/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ojhaddeepak/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ojhaddeepak/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [3643-zero-array-transformation-ii](https://github.com/ojhaddeepak/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Trie
 |  |
 | ------- |
