@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/ojhaddeepak/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2665-minimum-time-to-repair-cars](https://github.com/ojhaddeepak/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ojhaddeepak/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ojhaddeepak/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/ojhaddeepak/Leetcode/tree/master/3483-alternating-groups-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/ojhaddeepak/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Math
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ojhaddeepak/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ojhaddeepak/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ojhaddeepak/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/ojhaddeepak/Leetcode/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ojhaddeepak/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Sorting
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/ojhaddeepak/Leetcode/tree/master/0268-missing-number) |
 | [0891-score-after-flipping-matrix](https://github.com/ojhaddeepak/Leetcode/tree/master/0891-score-after-flipping-matrix) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ojhaddeepak/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/ojhaddeepak/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ojhaddeepak/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ojhaddeepak/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ojhaddeepak/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/ojhaddeepak/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Trie
 |  |
@@ -188,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ojhaddeepak/Leetcode/tree/master/0204-count-primes) |
+## Queue
+|  |
+| ------- |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ojhaddeepak/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 <!---LeetCode Topics End-->
