@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/ojhaddeepak/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ojhaddeepak/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ojhaddeepak/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ojhaddeepak/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/ojhaddeepak/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2551-apply-operations-to-an-array](https://github.com/ojhaddeepak/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2665-minimum-time-to-repair-cars](https://github.com/ojhaddeepak/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ojhaddeepak/Leetcode/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/ojhaddeepak/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ojhaddeepak/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ojhaddeepak/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2610-closest-prime-numbers-in-range](https://github.com/ojhaddeepak/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/ojhaddeepak/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 ## Two Pointers
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ojhaddeepak/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/ojhaddeepak/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ojhaddeepak/Leetcode/tree/master/0268-missing-number) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ojhaddeepak/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3430-count-days-without-meetings](https://github.com/ojhaddeepak/Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/ojhaddeepak/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Matrix
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/ojhaddeepak/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0891-score-after-flipping-matrix](https://github.com/ojhaddeepak/Leetcode/tree/master/0891-score-after-flipping-matrix) |
 | [0898-transpose-matrix](https://github.com/ojhaddeepak/Leetcode/tree/master/0898-transpose-matrix) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ojhaddeepak/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Simulation
 |  |
 | ------- |
