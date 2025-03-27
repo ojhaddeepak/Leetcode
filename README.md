@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ojhaddeepak/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/ojhaddeepak/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/ojhaddeepak/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ojhaddeepak/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ojhaddeepak/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ojhaddeepak/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ojhaddeepak/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/ojhaddeepak/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/ojhaddeepak/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/ojhaddeepak/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ojhaddeepak/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2665-minimum-time-to-repair-cars](https://github.com/ojhaddeepak/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [3643-zero-array-transformation-ii](https://github.com/ojhaddeepak/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Divide and Conquer
