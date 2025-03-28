@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ojhaddeepak/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/ojhaddeepak/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2551-apply-operations-to-an-array](https://github.com/ojhaddeepak/Leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/ojhaddeepak/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2665-minimum-time-to-repair-cars](https://github.com/ojhaddeepak/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ojhaddeepak/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/ojhaddeepak/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ojhaddeepak/Leetcode/tree/master/0283-move-zeroes) |
 | [0633-sum-of-square-numbers](https://github.com/ojhaddeepak/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [2551-apply-operations-to-an-array](https://github.com/ojhaddeepak/Leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/ojhaddeepak/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ojhaddeepak/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Hash Table
 |  |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ojhaddeepak/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ojhaddeepak/Leetcode/tree/master/0268-missing-number) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ojhaddeepak/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/ojhaddeepak/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/ojhaddeepak/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3430-count-days-without-meetings](https://github.com/ojhaddeepak/Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/ojhaddeepak/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0891-score-after-flipping-matrix](https://github.com/ojhaddeepak/Leetcode/tree/master/0891-score-after-flipping-matrix) |
 | [0898-transpose-matrix](https://github.com/ojhaddeepak/Leetcode/tree/master/0898-transpose-matrix) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ojhaddeepak/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/ojhaddeepak/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Simulation
 |  |
 | ------- |
@@ -232,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/ojhaddeepak/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/ojhaddeepak/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/ojhaddeepak/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Graph
@@ -260,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/ojhaddeepak/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/ojhaddeepak/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2793-count-the-number-of-complete-components](https://github.com/ojhaddeepak/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Binary Tree
@@ -271,4 +277,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/ojhaddeepak/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/ojhaddeepak/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 <!---LeetCode Topics End-->
