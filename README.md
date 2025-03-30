@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ojhaddeepak/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ojhaddeepak/Leetcode/tree/master/0283-move-zeroes) |
 | [0633-sum-of-square-numbers](https://github.com/ojhaddeepak/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0768-partition-labels](https://github.com/ojhaddeepak/Leetcode/tree/master/0768-partition-labels) |
 | [2551-apply-operations-to-an-array](https://github.com/ojhaddeepak/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ojhaddeepak/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ojhaddeepak/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/ojhaddeepak/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ojhaddeepak/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ojhaddeepak/Leetcode/tree/master/0268-missing-number) |
+| [0768-partition-labels](https://github.com/ojhaddeepak/Leetcode/tree/master/0768-partition-labels) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ojhaddeepak/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ojhaddeepak/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/ojhaddeepak/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/ojhaddeepak/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0205-isomorphic-strings](https://github.com/ojhaddeepak/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ojhaddeepak/Leetcode/tree/master/0242-valid-anagram) |
+| [0768-partition-labels](https://github.com/ojhaddeepak/Leetcode/tree/master/0768-partition-labels) |
 | [1170-shortest-common-supersequence](https://github.com/ojhaddeepak/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/ojhaddeepak/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ojhaddeepak/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/ojhaddeepak/Leetcode/tree/master/0055-jump-game) |
+| [0768-partition-labels](https://github.com/ojhaddeepak/Leetcode/tree/master/0768-partition-labels) |
 | [0891-score-after-flipping-matrix](https://github.com/ojhaddeepak/Leetcode/tree/master/0891-score-after-flipping-matrix) |
 | [3001-apply-operations-to-maximize-score](https://github.com/ojhaddeepak/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Bit Manipulation
