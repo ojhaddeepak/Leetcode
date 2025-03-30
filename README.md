@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3430-count-days-without-meetings](https://github.com/ojhaddeepak/Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ojhaddeepak/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/ojhaddeepak/Leetcode/tree/master/3483-alternating-groups-ii) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/ojhaddeepak/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3643-zero-array-transformation-ii](https://github.com/ojhaddeepak/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/ojhaddeepak/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Math
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/ojhaddeepak/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2793-count-the-number-of-complete-components](https://github.com/ojhaddeepak/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/ojhaddeepak/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/ojhaddeepak/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Topological Sort
 |  |
 | ------- |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ojhaddeepak/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/ojhaddeepak/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2793-count-the-number-of-complete-components](https://github.com/ojhaddeepak/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/ojhaddeepak/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Binary Tree
 |  |
 | ------- |
