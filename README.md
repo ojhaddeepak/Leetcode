@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ojhaddeepak/Leetcode/tree/master/0268-missing-number) |
 | [0768-partition-labels](https://github.com/ojhaddeepak/Leetcode/tree/master/0768-partition-labels) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ojhaddeepak/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ojhaddeepak/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ojhaddeepak/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/ojhaddeepak/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/ojhaddeepak/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -298,12 +299,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0988-flip-equivalent-binary-trees](https://github.com/ojhaddeepak/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ojhaddeepak/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/ojhaddeepak/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/ojhaddeepak/Leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0988-flip-equivalent-binary-trees](https://github.com/ojhaddeepak/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ojhaddeepak/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/ojhaddeepak/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2793-count-the-number-of-complete-components](https://github.com/ojhaddeepak/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/ojhaddeepak/Leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -311,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-sliding-puzzle](https://github.com/ojhaddeepak/Leetcode/tree/master/0787-sliding-puzzle) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ojhaddeepak/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ojhaddeepak/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/ojhaddeepak/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2793-count-the-number-of-complete-components](https://github.com/ojhaddeepak/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
@@ -319,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0988-flip-equivalent-binary-trees](https://github.com/ojhaddeepak/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ojhaddeepak/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/ojhaddeepak/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Shortest Path
 |  |
