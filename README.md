@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/ojhaddeepak/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ojhaddeepak/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0368-largest-divisible-subset](https://github.com/ojhaddeepak/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/ojhaddeepak/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/ojhaddeepak/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ojhaddeepak/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0787-sliding-puzzle](https://github.com/ojhaddeepak/Leetcode/tree/master/0787-sliding-puzzle) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/ojhaddeepak/Leetcode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/ojhaddeepak/Leetcode/tree/master/0118-pascals-triangle) |
 | [0368-largest-divisible-subset](https://github.com/ojhaddeepak/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/ojhaddeepak/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0787-sliding-puzzle](https://github.com/ojhaddeepak/Leetcode/tree/master/0787-sliding-puzzle) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ojhaddeepak/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/ojhaddeepak/Leetcode/tree/master/1170-shortest-common-supersequence) |
