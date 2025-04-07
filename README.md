@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ojhaddeepak/Leetcode/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/ojhaddeepak/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/ojhaddeepak/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/ojhaddeepak/Leetcode/tree/master/0204-count-primes) |
@@ -373,4 +374,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ojhaddeepak/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/ojhaddeepak/Leetcode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/ojhaddeepak/Leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
