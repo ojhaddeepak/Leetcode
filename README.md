@@ -334,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0988-flip-equivalent-binary-trees](https://github.com/ojhaddeepak/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ojhaddeepak/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [2384-root-equals-sum-of-children](https://github.com/ojhaddeepak/Leetcode/tree/master/2384-root-equals-sum-of-children) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/ojhaddeepak/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/ojhaddeepak/Leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Depth-First Search
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0988-flip-equivalent-binary-trees](https://github.com/ojhaddeepak/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ojhaddeepak/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [2384-root-equals-sum-of-children](https://github.com/ojhaddeepak/Leetcode/tree/master/2384-root-equals-sum-of-children) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/ojhaddeepak/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Shortest Path
 |  |
