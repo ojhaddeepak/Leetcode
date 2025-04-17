@@ -332,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/ojhaddeepak/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ojhaddeepak/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ojhaddeepak/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2384-root-equals-sum-of-children](https://github.com/ojhaddeepak/Leetcode/tree/master/2384-root-equals-sum-of-children) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/ojhaddeepak/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ojhaddeepak/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ojhaddeepak/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/ojhaddeepak/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/ojhaddeepak/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ojhaddeepak/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ojhaddeepak/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2384-root-equals-sum-of-children](https://github.com/ojhaddeepak/Leetcode/tree/master/2384-root-equals-sum-of-children) |
