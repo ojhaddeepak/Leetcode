@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-alternating-groups-ii](https://github.com/ojhaddeepak/Leetcode/tree/master/3483-alternating-groups-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/ojhaddeepak/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/ojhaddeepak/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/ojhaddeepak/Leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/ojhaddeepak/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/ojhaddeepak/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/ojhaddeepak/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3001-apply-operations-to-maximize-score](https://github.com/ojhaddeepak/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/ojhaddeepak/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/ojhaddeepak/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/ojhaddeepak/Leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-find-the-count-of-good-integers](https://github.com/ojhaddeepak/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ojhaddeepak/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/ojhaddeepak/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/ojhaddeepak/Leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/ojhaddeepak/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## String
 |  |
@@ -450,4 +453,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/ojhaddeepak/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
+## Geometry
+|  |
+| ------- |
+| [3625-count-number-of-trapezoids-ii](https://github.com/ojhaddeepak/Leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
 <!---LeetCode Topics End-->
